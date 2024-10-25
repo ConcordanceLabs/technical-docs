@@ -1,6 +1,6 @@
 ---
 hidden: true
-icon: plug-circle-plus
+icon: puzzle
 ---
 
 # Integration to Anoma

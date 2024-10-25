@@ -2,7 +2,7 @@
 description: >-
   Concordance Labs enables developers to use the distributed power of blockchain
   for server-side application rendering.
-icon: bullseye-arrow
+icon: map
 cover: ../.gitbook/assets/Screenshot 2024-10-16 at 4.32.19 PM.png
 coverY: 0
 ---
@@ -15,7 +15,18 @@ Today's blockchain solutions are Web 2.5; a small portion of the application is 
 
 _At Concordance Labs, we think we can do better._&#x20;
 
-So we are creating frameworks, tools, and platforms to allow developers to build applications where the blockchain serves requests, enabling trustless applications without the need for rent-seeking intermediaries, and unlocking a fully on-chain experience for users.&#x20;
+We built the Convoy, a 3 part system to create, launch, and serve fully on-chain applications.&#x20;
+
+* Framework
+* Platform
+* Execution Client
+
+Our goals
+
+* create an alternative to cloud or on-prem hosting&#x20;
+* to allow developers to embed  new web use cases
+* to leverage the benefits of blockchain; security, trustlessness,&#x20;
+* enabling trustless applications without intermediaries, and unlocking a fully on-chain experience for users.&#x20;
 
 ### How it Works
 
