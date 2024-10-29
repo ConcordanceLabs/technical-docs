@@ -1,12 +1,11 @@
 ---
+hidden: true
 icon: signs-post
 ---
 
-# Explore the Convoy
+# Words that help the theme
 
-You have cargo
-
-
+You have cargo -
 
 Testing is called the escort&#x20;
 

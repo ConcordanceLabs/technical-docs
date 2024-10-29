@@ -1,7 +1,4 @@
 ---
-description: >-
-  Concordance Labs enables developers to use the distributed power of blockchain
-  for server-side application rendering.
 icon: map
 cover: ../.gitbook/assets/Screenshot 2024-10-16 at 4.32.19 PM.png
 coverY: 0
@@ -9,65 +6,34 @@ coverY: 0
 
 # Overview
 
+Building on chain meant managing integrations, and cross-chain complexity.&#x20;
+
+Concordance Labs enables developers to use the distributed power of blockchain for effiecent application rendering.
+
+Concordance labs creates scaffolding so developers can focus on&#x20;
+
 <figure><img src="../.gitbook/assets/Screenshot 2024-10-16 at 4.12.51 PM.png" alt=""><figcaption></figcaption></figure>
 
-Today's blockchain solutions are Web 2.5; a small portion of the application is serviced by a trusted RPC to a blockchain; typically for transaction settlement.&#x20;
+Today, blockchain solutions are Web 2.5; a small portion of the application is serviced by a trusted RPC to a blockchain; typically for transaction settlement. The rest of the application is hosted and served using off-chain compute and adopt web2 standards.&#x20;
 
-_At Concordance Labs, we think we can do better._&#x20;
+#### _At Concordance Labs, we think we can do better._&#x20;
 
-We built the Convoy, a 3 part system to create, launch, and serve fully on-chain applications.&#x20;
+#### We built the Convoy, a 3-part system to create, launch, and serve fully on-chain applications.&#x20;
 
-* Framework
-* Platform
-* Execution Client
+* [Framework](../technical-guides/framework-wayfinder.md)
+* [Platform](../technical-guides/platform-outrider.md)
+* [Execution Client](../technical-guides/convoy-client.md)
 
-Our goals
+#### Our goals
 
-* create an alternative to cloud or on-prem hosting&#x20;
-* to allow developers to embed  new web use cases
-* to leverage the benefits of blockchain; security, trustlessness,&#x20;
-* enabling trustless applications without intermediaries, and unlocking a fully on-chain experience for users.&#x20;
+* Provide developers a simple and clear approach for writing responsive applications with web3 capabilities
+* Simplify data management for businesses, and increase data privacy for individuals&#x20;
+* Create an alternative to cloud or on-prem server management&#x20;
 
-### How it Works
+#### Our Features&#x20;
 
-Some say that blockchains are databases (it's a generous description.)&#x20;
-
-&#x20;Blockchains are not databases, rather they are the simplest type of compute; a deterministic state machine. For a blockchain, there are only a few components:
-
-1. Global State (the Ledger)&#x20;
-2. State Transitions (updates to the Ledger)&#x20;
-3. Consensus&#x20;
-
-These distributed systems work to ensure that everyone agrees on the current state of the system, and that any update to the state -a state transition - is valid. The assurance of state agreement happens through a cryptographically strong consensus and validation process.&#x20;
-
-{% hint style="info" %}
-Want to learn about how blockchains work? Head to the [Blockchain Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
-
-Everyone in a blockchain ecosystem is focused on state.&#x20;
-
-Even smart contracts, a revolutionary progression, is a means to enhance the conditions in which you update state. Meaning, state can be invoked through a button press,&#x20;
-
-But for a Web3 application, you need more than state. That's where we come in.&#x20;
-
-
-
-
-
-
-
-### Import
-
-
-
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
-
-<div data-full-width="false">
-
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+* Resilient application performance&#x20;
+* On-chain sessions-handling, authorization, and authentication&#x20;
+* End-to-end data privacy&#x20;
+* Asynchronous data fetching&#x20;
+* Infrastructure abstraction&#x20;

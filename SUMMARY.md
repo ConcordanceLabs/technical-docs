@@ -5,7 +5,10 @@
 ## LEARN
 
 * [Overview](learn/quickstart.md)
+* [Building Blocks](learn/building-blocks.md)
 * [Explore the Convoy](learn/explore-the-convoy.md)
+* [Words that help the theme](learn/words-that-help-the-theme.md)
+* [A different mental model for Blockchain](learn/a-different-mental-model-for-blockchain.md)
 
 ## TECHNICAL GUIDES
 
@@ -16,9 +19,11 @@
 * [Technical Guidezzz](technical-guides/publish-your-docs.md)
 * [Framework - Wayfinder](technical-guides/framework-wayfinder.md)
 * [Platform - Outrider](technical-guides/platform-outrider.md)
-* [Execution Client - ???](technical-guides/execution-client.md)
+* [Convoy Client](technical-guides/convoy-client.md)
 * [Examples](technical-guides/examples.md)
 
 ## Use Cases
 
-* [Page 1](use-cases/page-1.md)
+* [GitPass Auction](use-cases/gitpass-auction.md)
+* [Library](use-cases/library.md)
+* [Music Venue](use-cases/music-venue.md)
