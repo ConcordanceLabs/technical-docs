@@ -1,5 +1,10 @@
 ---
+cover: .gitbook/assets/Gradient-Logo.png
+coverY: 184
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -14,58 +19,44 @@ layout:
 
 # Concordance Labs
 
-About&#x20;
+## About Concordance Labs&#x20;
 
-Concordance Labs is a team dedicated to unlocking the compute power of blockchain for all types of server-side application traffic.  \
+Concordance Labs is a team dedicated to unlocking the compute power of blockchain for all types of server-side application traffic. &#x20;
 
+## What&#x20;
 
-What&#x20;
+The blockchain ecosystem can be grouped into two segments.&#x20;
 
-Anything that is not a state machine is a data abstraction.&#x20;
+### Segment 1: Blockchains are State Machines&#x20;
 
-The state layer must know of the abstraction layer or else the users are forced to use intermediaries.&#x20;
+Blockchains are deterministic finite state automata, which know only their current state, acceptable states, and state transition function. A blockchain's entire state is contained as its ledger.
 
-Anoma is our state machine. We are the data abstraction layer.
+### Segment 2: Everything else is a Data Abstraction&#x20;
 
-The goal is to enable any data infrastructure needed to alter the state without acting as an intermediary.&#x20;
+To expand blockchain capabilities (and enable DeFi, DeSci, GameFi), we employ intermediaries like bridges, oracles, and modularity layers. These trusted intermediaries manage data abstractions that a state machine cannot.&#x20;
 
+For any action in web3 beyond state transition, users and builders must chose from the intermediaries available, accept the outlined contraints of their specialized process, adopt their tenants, and pay their toll.&#x20;
 
+i.e. Bridges bring transaction data cross-chain. You must accept their version of synthetic, wrapped, minted tokens, trust their security, and pay their fee.&#x20;
 
-A framework designed to efficiently handle complex business and data logic to easily enable interactive features like search, add to cart, sessions, and more.&#x20;
+### Concordance Solves for Data Abstraction&#x20;
 
-Reliable, idempotent, performant routing.&#x20;
+We propose Convoy; a new protocol for arbitrary data abstraction. &#x20;
 
-Seamlessly handle asynchronous client state.&#x20;
+This protocol removes intermediaries who faciltate processes of data abstraction, and allow for both objective and subjective data-dependent applications to run fully on-chain.&#x20;
 
+### How
 
+We abstract data as a system, for any arbitrary data processes. Users and builders are not bound to piecemeal process enablement.&#x20;
 
-All in one Platform to configure, and deploy your application. Set your domain, and manage traffic.
+Our protocol optimizes data compression, package transfer, and enables I/O from the client.&#x20;
 
+### Why
 
+#### Blockchain-based applications should be a strong alternative to the cloud or on-premise hosting.&#x20;
 
-The client design allows for variable input from predefined I/O as when defined in your business logic.&#x20;
+**We want to let developers focus on developing the best blockchain-based technology possible.** Developers should focus on enabling the solutions they want using blockchain instead of fighting with infrastructure, compromising on the features they can create, or making appchains, sidechains, or rollups that fragment liquidity and compromise strong security.
 
+**Blockchain should be trustless.** Developers should not have to rely on intermediaries. &#x20;
 
-
-How
-
-we are creating a system that allows business logic to be integrated into the ecosystem and solved by the ecosystem.&#x20;
-
-
-
-Why
-
-Businesses do not have to manage data infrastructure both on chain and offchain.&#x20;
-
-Busineses do not have to create appchains, sidechains, rollups which fragment liquidity and&#x20;
-
-Users give less Users should know what happens to their data when they give on the internet.
-
-
-
-&#x20;
-
-{% hint style="info" %}
-Concordance Labs makes frequent changes to o
-{% endhint %}
-
+**Give users transparency and control over their data.** Users should know what happens to their data when they give on the internet.
