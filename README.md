@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/Gradient-Logo.png
-coverY: 184
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
