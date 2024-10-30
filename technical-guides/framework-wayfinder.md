@@ -1,5 +1,6 @@
 ---
 icon: location-arrow
+hidden: true
 ---
 
 # Framework - Wayfinder

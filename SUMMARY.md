@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Concordance Convoy Documentation](README.md)
+* [Concordance Labs](README.md)
+* [Concordance Convoy Documentation](<README (1).md>)
 
 ## LEARN
 

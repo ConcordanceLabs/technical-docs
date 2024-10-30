@@ -1,5 +1,6 @@
 ---
 icon: signs-post
+hidden: true
 ---
 
 # Explore the Convoy

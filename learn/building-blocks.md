@@ -1,5 +1,6 @@
 ---
 icon: rectangles-mixed
+hidden: true
 ---
 
 # Building Blocks

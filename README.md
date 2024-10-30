@@ -1,16 +1,71 @@
 ---
-layout: landing
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
-# Concordance Convoy Documentation
+# Concordance Labs
 
-Welcome to the Concordance Labs Document Hub.&#x20;
+About&#x20;
 
-Here, you'll learn how to build fully on-chain, feature-rich, data-rich applications without having to manage cross-chain automation or off-chain servers.&#x20;
+Concordance Labs is a team dedicated to unlocking the compute power of blockchain for all types of server-side application traffic.  \
+
+
+What&#x20;
+
+Anything that is not a state machine is a data abstraction.&#x20;
+
+The state layer must know of the abstraction layer or else the users are forced to use intermediaries.&#x20;
+
+Anoma is our state machine. We are the data abstraction layer.
+
+The goal is to enable any data infrastructure needed to alter the state without acting as an intermediary.&#x20;
 
 
 
-## Jump right in
+A framework designed to efficiently handle complex business and data logic to easily enable interactive features like search, add to cart, sessions, and more.&#x20;
 
-<table data-column-title-hidden data-view="cards" data-full-width="true"><thead><tr><th></th><th></th><th data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Learn</strong></td><td>New here? Get started with an introduction and overview.  </td><td></td><td></td><td><a href="learn/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Technical Overview</strong></td><td> The nuts and bolts. </td><td></td><td></td><td><a href="technical-guides/framework-wayfinder.md">framework-wayfinder.md</a></td></tr><tr><td><strong>Use cases</strong> </td><td>Explore what's possible. </td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+Reliable, idempotent, performant routing.&#x20;
+
+Seamlessly handle asynchronous client state.&#x20;
+
+
+
+All in one Platform to configure, and deploy your application. Set your domain, and manage traffic.
+
+
+
+The client design allows for variable input from predefined I/O as when defined in your business logic.&#x20;
+
+
+
+How
+
+we are creating a system that allows business logic to be integrated into the ecosystem and solved by the ecosystem.&#x20;
+
+
+
+Why
+
+Businesses do not have to manage data infrastructure both on chain and offchain.&#x20;
+
+Busineses do not have to create appchains, sidechains, rollups which fragment liquidity and&#x20;
+
+Users give less Users should know what happens to their data when they give on the internet.
+
+
+
+&#x20;
+
+{% hint style="info" %}
+Concordance Labs makes frequent changes to o
+{% endhint %}
 

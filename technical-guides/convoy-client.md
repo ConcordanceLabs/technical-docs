@@ -1,5 +1,6 @@
 ---
 icon: walkie-talkie
+hidden: true
 ---
 
 # Convoy Client

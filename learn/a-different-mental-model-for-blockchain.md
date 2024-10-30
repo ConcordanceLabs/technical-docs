@@ -1,5 +1,6 @@
 ---
 icon: head-side-gear
+hidden: true
 ---
 
 # A different mental model for Blockchain
