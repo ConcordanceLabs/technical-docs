@@ -14,7 +14,7 @@ layout:
 
 # Concordance Labs
 
-## About Concordance Labs&#x20;
+## About&#x20;
 
 Concordance Labs is a team dedicated to unlocking the compute power of blockchain for all types of server-side application traffic. &#x20;
 

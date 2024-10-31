@@ -28,3 +28,4 @@
 * [GitPass Auction](use-cases/gitpass-auction.md)
 * [Library](use-cases/library.md)
 * [Music Venue](use-cases/music-venue.md)
+* [Flight](use-cases/flight.md)
