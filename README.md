@@ -40,13 +40,13 @@ We propose Convoy; a new protocol for arbitrary data abstraction. &#x20;
 
 This protocol removes intermediaries who faciltate processes of data abstraction, and allow for both objective and subjective data-dependent applications to run fully on-chain.&#x20;
 
-### How
+## How
 
 We abstract data as a system, for any arbitrary data processes. Users and builders are not bound to piecemeal process enablement.&#x20;
 
 Our protocol optimizes data compression, secure package transfer, and enables responsive I/O from the client.&#x20;
 
-### Why
+## Why
 
 #### Blockchain-based applications should be a strong alternative to the cloud or on-premise server hosting.&#x20;
 
