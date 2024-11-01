@@ -24,7 +24,7 @@ The blockchain ecosystem can be grouped into two segments.&#x20;
 
 ### Segment 1: Blockchains are State Machines&#x20;
 
-Blockchains are deterministic finite state automata, which know only their current state, an acceptable set og states, and the state transition function. A blockchain's entire state is contained as its ledger.
+Blockchains are deterministic finite state automata, which know only their current state, an acceptable set of states, and the state transition function. A blockchain's entire state is contained as its ledger.
 
 ### Segment 2: Everything else is a Data Abstraction&#x20;
 
