@@ -50,6 +50,10 @@ Our protocol optimizes data compression, secure package transfer, and enables re
 
 #### Blockchain-based applications should be a strong alternative to the cloud or on-premise server hosting.&#x20;
 
+<figure><img src=".gitbook/assets/Screenshot 2024-10-16 at 4.12.51 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
 **Allow developers to focus on developing the best blockchain-based technology possible.** Developers should focus on enabling the solutions they want using blockchain instead of fighting with infrastructure, compromising on the features they can create, or making appchains, sidechains, or rollups that fragment liquidity and compromise strong security.
 
 **Blockchain should be trustless.** Developers should not have to rely on intermediaries. &#x20;
