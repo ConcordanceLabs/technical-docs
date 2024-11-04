@@ -48,7 +48,7 @@ Our protocol optimizes data compression, secure package transfer, and enables re
 
 ## Why
 
-#### Blockchain-based applications should be a strong alternative to the cloud or on-premise server hosting.&#x20;
+#### Blockchain should be a strong alternative to the cloud or on-premise server hosting.&#x20;
 
 <figure><img src=".gitbook/assets/Screenshot 2024-10-16 at 4.12.51 PM.png" alt=""><figcaption></figcaption></figure>
 
