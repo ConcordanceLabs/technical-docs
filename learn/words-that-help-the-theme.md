@@ -1,6 +1,7 @@
 ---
-hidden: true
 icon: signs-post
+hidden: true
+noIndex: true
 ---
 
 # Words that help the theme

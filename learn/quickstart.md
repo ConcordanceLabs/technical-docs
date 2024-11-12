@@ -1,6 +1,7 @@
 ---
 icon: map
 hidden: true
+noIndex: true
 cover: ../.gitbook/assets/Screenshot 2024-10-16 at 4.32.19 PM.png
 coverY: 0
 ---

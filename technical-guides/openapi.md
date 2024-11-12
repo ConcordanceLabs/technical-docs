@@ -1,6 +1,7 @@
 ---
-hidden: true
 icon: network-wired
+hidden: true
+noIndex: true
 ---
 
 # OpenAPI

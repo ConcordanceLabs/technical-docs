@@ -1,5 +1,6 @@
 ---
 description: See how you keep your private data, private
+noIndex: true
 ---
 
 # Flight

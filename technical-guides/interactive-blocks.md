@@ -1,6 +1,7 @@
 ---
-hidden: true
 icon: hand-pointer
+hidden: true
+noIndex: true
 ---
 
 # Interactive blocks

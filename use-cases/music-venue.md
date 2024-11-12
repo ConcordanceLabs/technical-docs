@@ -1,5 +1,6 @@
 ---
 description: Saying goodbye to the intermediaries that support complex coordination
+noIndex: true
 ---
 
 # Music Venue
