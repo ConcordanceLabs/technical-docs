@@ -22,15 +22,21 @@ Concordance Labs is a team dedicated to unlocking the compute power of blockchai
 
 The blockchain ecosystem can be grouped into two segments.&#x20;
 
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### Segment 1: Blockchains are State Machines&#x20;
 
 Blockchains are deterministic finite state automata, which know only their current state, an acceptable set of states, and the state transition function. A blockchain's entire state is contained as its ledger.
 
 ### Segment 2: Everything else is a Data Abstraction&#x20;
 
-To expand blockchain capabilities (and enable DeFi, DeSci, GameFi), we employ intermediaries like bridges, oracles, and modularity layers. These trusted intermediaries manage data abstractions that a state machine cannot.&#x20;
+To expand blockchain capabilities (and enable DeFi, DeSci, GameFi), we employ intermediaries like bridges, oracles, and indexers. These trusted intermediaries manage data processes that a state machine cannot.&#x20;
+
+<figure><img src=".gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 For any action in web3 beyond state transition, users and builders must choose from the intermediaries available, accept the outlined constraints of their specialized process, adopt their tenants, and pay their toll.&#x20;
+
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 i.e. Bridges bring transaction data cross-chain. You must accept their version of synthetic, wrapped, or minted tokens, trust their security, and pay their fee.&#x20;
 
@@ -38,13 +44,13 @@ i.e. Bridges bring transaction data cross-chain. You must accept their version o
 
 We propose Convoy; a new protocol for arbitrary data abstraction. &#x20;
 
-This protocol removes intermediaries who faciltate processes of data abstraction, and allow for both objective and subjective data-dependent applications to run fully on-chain.&#x20;
+This protocol removes intermediaries who facilitate processes of data abstraction, and allow for both objective and subjective data-dependent applications to run fully on-chain.&#x20;
 
 ## How
 
 We abstract data as a system, for any arbitrary data processes. Users and builders are not bound to piecemeal process enablement.&#x20;
 
-Our protocol optimizes data compression, secure package transfer, and enables responsive I/O from the client.&#x20;
+Our protocol optimizes data compression, and secure package transfer, and enables responsive I/O from the client.&#x20;
 
 ## Why
 

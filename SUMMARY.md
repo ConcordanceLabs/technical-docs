@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Concordance Labs](README.md)
+* [Integration to Anoma](integration-to-anoma.md)
 * [Concordance Convoy Documentation](<README (1).md>)
 
 ## LEARN
@@ -16,7 +17,7 @@
 * [Interactive blocks](technical-guides/interactive-blocks.md)
 * [Blockchain Basics](technical-guides/blockchain-basics.md)
 * [OpenAPI](technical-guides/openapi.md)
-* [Integration to Anoma](technical-guides/integrations.md)
+* [Formatting](technical-guides/integrations.md)
 * [Technical Guidezzz](technical-guides/publish-your-docs.md)
 * [Framework - Wayfinder](technical-guides/framework-wayfinder.md)
 * [Platform - Outrider](technical-guides/platform-outrider.md)
