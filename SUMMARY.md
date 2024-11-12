@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Concordance Labs](README.md)
+* [Anoma Implementation](README.md)
+* [Concordance Labs](<README (2).md>)
 * [Integration to Anoma](integration-to-anoma.md)
 * [Concordance Convoy Documentation](<README (1).md>)
 
