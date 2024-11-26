@@ -1,14 +1,12 @@
 ---
-description: Saying goodbye to the intermediaries that support complex coordination
-hidden: true
-noIndex: true
+description: Say goodbye to intermediaries that support complex coordination
 ---
 
 # Music Venue
 
-A music venue wants to host a band.
+A music venue regularly hosts local bands.
 
-Today their option are&#x20;
+This music venue option are&#x20;
 
 1. Place the concert on a major distrubution site, and face fees taken by major ticket managers&#x20;
 2. Build their own website where they must manage the complex integrations with payment processors, issuing refunds, ticket insurance, databases of user information, etc.&#x20;
@@ -16,24 +14,26 @@ Today their option are&#x20;
 
 {% stepper %}
 {% step %}
-### Anoma Resources
+### Create Anoma Resources
 
-Create your tickets as Anoma resources
+Create concert tickets as Anoma resources
 
-Define your settings, and deploy to the Anoma blockchain
+Define resource logic
 {% endstep %}
 
 {% step %}
-### Framework
+### Build using the Wayfinder Framework
 
-Install convoy&#x20;
+Install convoy SDK&#x20;
 
-Create features
+Leverage imported features
 
 * search&#x20;
 * cart, with periodic fetches from application's resources state.&#x20;
 
 Build routes
+
+*
 
 Add business logic&#x20;
 
@@ -43,7 +43,7 @@ Add business logic&#x20;
 {% endstep %}
 
 {% step %}
-### Platform
+### Launch from the Platform
 
 Log into the platform&#x20;
 
@@ -53,19 +53,12 @@ Outrider performs a build, output a manifest&#x20;
 
 Configure your application cargo.
 
-*
-
 Deploy
 
 Monitor&#x20;
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
 {% endstep %}
 {% endstepper %}
 
+
+
+3 easy steps allow for&#x20;

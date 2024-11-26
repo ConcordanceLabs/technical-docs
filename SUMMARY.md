@@ -1,18 +1,17 @@
 # Table of contents
 
-* [Anoma Implementation](README.md)
-* [Concordance Labs](<README (2).md>)
-* [Concordance Convoy Documentation](<README (1).md>)
+* [Concordance Documentation](README.md)
 
-## LEARN
+## Learn
 
-* [Overview](learn/quickstart.md)
-* [Building Blocks](learn/building-blocks.md)
 * [Explore the Convoy](learn/explore-the-convoy.md)
 * [Words that help the theme](learn/words-that-help-the-theme.md)
 * [A different mental model for Blockchain](learn/a-different-mental-model-for-blockchain.md)
+* [Overview](learn/quickstart.md)
+* [A New Mental Model for Blockchain](learn/a-new-mental-model-for-blockchain.md)
+* [Building Blocks](learn/building-blocks.md)
 
-## TECHNICAL GUIDES
+## Technical Guides
 
 * [Interactive blocks](technical-guides/interactive-blocks.md)
 * [Blockchain Basics](technical-guides/blockchain-basics.md)
@@ -20,9 +19,11 @@
 * [Formatting](technical-guides/integrations.md)
 * [Technical Guidezzz](technical-guides/publish-your-docs.md)
 * [Framework - Wayfinder](technical-guides/framework-wayfinder.md)
+* [Copy of Framework - Wayfinder](technical-guides/copy-of-framework-wayfinder.md)
 * [Platform - Outrider](technical-guides/platform-outrider.md)
 * [Convoy Client](technical-guides/convoy-client.md)
 * [Examples](technical-guides/examples.md)
+* [Architecture](technical-guides/architecture.md)
 
 ## Use Cases
 

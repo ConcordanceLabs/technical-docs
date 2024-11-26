@@ -6,29 +6,19 @@ noIndex: true
 
 # Building Blocks
 
-{% embed url="https://runtimeverification.com/about" %}
-Adopting the about from this good project.&#x20;
-{% endembed %}
+## About&#x20;
 
-### About&#x20;
+Concordance is dedicated to unlocking the compute power of blockchain for all types of server-side application traffic. &#x20;
 
-
+The Concordance Labs team is building a premier suite of tools; the Convoy; a unified system designed to flex the security, decentralization, and trustlessness of blockchain for any use case, while abstracting away blockchain infrastructure.&#x20;
 
 {% hint style="info" %}
-We look at blockchain from a system perspective. Want to reimagine the blockchain ecosystem? See our[ mental model for blockchain](a-different-mental-model-for-blockchain.md) section to learn more.
+At Concordance Labs, we look at blockchain from a system perspective. Want to reimagine the blockchain ecosystem? See our[ mental model for blockchain](a-new-mental-model-for-blockchain.md) section to learn more.
 {% endhint %}
 
-### What is it?&#x20;
-
-The convoy is a unified system designed to abstract away infrastructure, and allow developers to focus on&#x20;
 
 
+#### Our tools create a new category of blockchain-based applications&#x20;
 
-How is it different?&#x20;
-
-### How does the Convoy enable&#x20;
-
-
-
-### We add diversity to the Anoma Ecosystem&#x20;
+A category where blockchain is embedded into the application, instead of a feature to the application.&#x20;
 
