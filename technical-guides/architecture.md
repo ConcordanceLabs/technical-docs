@@ -4,4 +4,4 @@ The Convoy is designed to run on top of the Anoma interface for cross-chain sett
 
 With this design, developers can build any blockchain-based capabilities for any chain.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
