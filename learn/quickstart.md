@@ -18,13 +18,13 @@ Today, blockchain solutions are Web 2.5; where a small portion of the applicatio
 * A [platform](../technical-guides/platform-outrider.md) to launch applications
 * An [execution client](../technical-guides/convoy-client.md) that serves your server-side requests fully on-chain
 
-Together, our tools create a new category of on-chain applications.&#x20;
+Together, our tools create a new class of on-chain applications.&#x20;
 
 #### Our goals
 
-* Provide developers with a simple and clear approach for writing responsive applications with web3 capabilities
-* Simplify data management for businesses, and increase data privacy for individuals&#x20;
-* Create an alternative to cloud or on-prem server management&#x20;
+* Provide developers with a simple and clear approach for writing feature-rich applications with web3 capabilities
+* Simplify data management for applications, and increase data privacy for individuals&#x20;
+* Create an alternative to cloud or on-premise server management&#x20;
 
 #### Our Features&#x20;
 
