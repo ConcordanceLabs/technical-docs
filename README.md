@@ -4,6 +4,10 @@ hidden: true
 
 # Concordance Documentation
 
+{% hint style="info" %}
+NOTE: Concordance is pre-release and actively under development.
+{% endhint %}
+
 Welcome to the Concordance Document Hub.&#x20;
 
 Here, you'll learn how to build fully on-chain, feature-rich, data-rich applications without managing cross-chain automation or off-chain servers.&#x20;
