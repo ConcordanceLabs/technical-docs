@@ -8,8 +8,8 @@
 * [Words that help the theme](learn/words-that-help-the-theme.md)
 * [A different mental model for Blockchain](learn/a-different-mental-model-for-blockchain.md)
 * [Overview](learn/quickstart.md)
-* [A New Mental Model for Blockchain](learn/a-new-mental-model-for-blockchain.md)
 * [Building Blocks](learn/building-blocks.md)
+* [A New Mental Model for Blockchain](learn/a-new-mental-model-for-blockchain.md)
 
 ## Technical Guides
 
@@ -21,6 +21,7 @@
 * [Framework - Wayfinder](technical-guides/framework-wayfinder.md)
 * [Copy of Framework - Wayfinder](technical-guides/copy-of-framework-wayfinder.md)
 * [Platform - Outrider](technical-guides/platform-outrider.md)
+* [Runtime Environment](technical-guides/runtime-environment.md)
 * [Convoy Client](technical-guides/convoy-client.md)
 * [Examples](technical-guides/examples.md)
 * [Architecture](technical-guides/architecture.md)

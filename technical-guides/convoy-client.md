@@ -1,9 +1,11 @@
 ---
-icon: walkie-talkie
+hidden: true
 noIndex: true
 ---
 
 # Convoy Client
+
+Future: May be a service provider for Anoma&#x20;
 
 The Concordance Convoy specialized client is built with the Wayfinder framework in mind.&#x20;
 
