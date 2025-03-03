@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Architecture
 
 The Convoy is designed to run on top of the Anoma interface for cross-chain settlement, intent creation, and concurrent state creation.&#x20;
