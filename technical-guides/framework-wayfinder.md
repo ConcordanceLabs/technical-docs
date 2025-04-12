@@ -1,5 +1,5 @@
 ---
-icon: location-arrow
+hidden: true
 noIndex: true
 ---
 

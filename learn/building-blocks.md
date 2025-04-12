@@ -1,5 +1,5 @@
 ---
-icon: rectangles-mixed
+hidden: true
 noIndex: true
 ---
 
@@ -12,7 +12,7 @@ Concordance is dedicated to unlocking the compute power of blockchain for all ty
 The Concordance Labs team is building a premier suite of tools; the Convoy; a unified system designed to flex the security, decentralization, and trustlessness of blockchain for any use case, while abstracting away the complexity infrastructure integration.&#x20;
 
 {% hint style="info" %}
-At Concordance Labs, we look at blockchain from a system perspective. Want to reimagine the blockchain ecosystem? See our[ mental model for blockchain](a-new-mental-model-for-blockchain.md) section to learn more.
+At Concordance Labs, we look at blockchain from a system perspective. Want to reimagine the blockchain ecosystem? See our[ mental model for blockchain](a-new-mental-model-for-web3.md) section to learn more.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

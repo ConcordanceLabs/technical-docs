@@ -1,5 +1,4 @@
 ---
-icon: map
 description: Blockchain Extensibility
 noIndex: true
 ---
@@ -12,19 +11,15 @@ Today, blockchain solutions are Web 2.5; where a small portion of the applicatio
 
 _At Concordance Labs, we think we can do better._&#x20;
 
-#### We built the Convoy, a 3-part unified interface to create, launch, and serve fully on-chain applications.&#x20;
+#### Developer tools for workflow orchestration. Create, launch, and serve fully on-chain applications.&#x20;
 
-* A [framework](../technical-guides/framework-wayfinder.md) to structure applications
-* A [platform](../technical-guides/platform-outrider.md) to launch applications
-* A [runtime environment ](../technical-guides/runtime-environment.md)tailored for application requests.
-
-Together, our tools create a new class of on-chain applications.&#x20;
+This end-to-end solution enables a new class of on-chain applications.&#x20;
 
 #### Our goals
 
 * Provide developers with a simple and clear approach for writing feature-rich applications with web3 capabilities.
-* Streqmline state management for applications, and increase data privacy for individuals.
-* Create an alternative to cloud or on-premise server management.
+* Establish blockchain as a viable alternative to cloud or on-premise server management for coordination use cases.
+* Streamline state management for applications, and increase data privacy for individuals.
 
 #### Our Features
 

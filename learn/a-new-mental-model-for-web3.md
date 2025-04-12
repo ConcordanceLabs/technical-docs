@@ -1,5 +1,4 @@
 ---
-icon: sparkles
 noRobotsIndex: true
 layout:
   title:
@@ -14,9 +13,9 @@ layout:
     visible: false
 ---
 
-# A New Mental Model for Blockchain
+# A New Mental Model for Web3
 
-Blockchain technolgies can be grouped into two segments.&#x20;
+All blockchain technologies can be grouped into two segments.&#x20;
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -64,7 +63,9 @@ Developers should focus on enabling the solutions they want using blockchain ins
 
 **Blockchain should be trustless.**&#x20;
 
-Developers should not have to rely on intermediaries. &#x20;
+The core of web3 is permissionless, trustless compute.&#x20;
+
+Developers should not have to rely on intermediaries to facilitate transactions. &#x20;
 
 **Give users transparency and control over their data.**&#x20;
 

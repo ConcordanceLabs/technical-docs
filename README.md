@@ -12,7 +12,7 @@ Welcome to the Concordance Document Hub.&#x20;
 
 Here, you'll learn how to build fully on-chain, feature-rich, data-rich applications without managing cross-chain automation or off-chain servers.&#x20;
 
-Our blockchain extensibility suite; the Convoy, allows developers to embed blockchain into their unique use cases without managing on-chain infrastructure or off-chain compute.&#x20;
+Our blockchain extensibility suite; the Convoy, allows developers to embed blockchain into their unique use cases, abstracting on-chain infrastructure and off-chain compute.&#x20;
 
 
 

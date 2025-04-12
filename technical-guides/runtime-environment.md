@@ -1,5 +1,5 @@
 ---
-icon: walkie-talkie
+hidden: true
 noIndex: true
 ---
 
