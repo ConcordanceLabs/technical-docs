@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Concordance Documentation](README.md)
-
 ## Learn
 
+* [Concordance Documentation](README.md)
 * [Explore the Convoy](learn/explore-the-convoy.md)
 * [Words that help the theme](learn/words-that-help-the-theme.md)
 * [A different mental model for Blockchain](learn/a-different-mental-model-for-blockchain.md)
