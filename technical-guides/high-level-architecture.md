@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # High Level Architecture
 
 Replace your backend with the blockchain.&#x20;
