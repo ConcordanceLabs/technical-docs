@@ -12,7 +12,7 @@ For web3 apps, code runs more like a distributed system; whether partially or fu
 
 Our runtime serves as an execution environment that enables developers to maintain a unified application state without a centralized authority like a server.&#x20;
 
-We abstract away the line between on-chain and offchain execution, freeing developers from pluming infrastructure, or what I call 'fragmentation tax'.&#x20;
+We abstract away the line between on-chain and offchain execution, freeing developers from pluming infrastructure, or what we call 'fragmentation tax'.&#x20;
 
 With Concordance, developers no longer write interfaces or message queues, and struggle to sync these segmented environments. They just write core application logic. Our compiler derives the messages to be passed between environments, and our runtime handles the orchestration, equipped with the cryptographic validation, to achieve secure-by-default apps. (Much better than manual audits that start and stop at the smart contract layer.)
 
@@ -20,6 +20,6 @@ With Concordance, developers no longer write interfaces or message queues, and s
 
 ### Why take this approach?
 
-All systems communicate by message passing. Rather than a developer writing the message structure and the logic to send, receive, and process messages, Concordance mathematically derives the message from the code. Why does this matter? Why take this approach? Every web3 hack happens by exploiting message passing. If we secure the message construction with math and cryptography, we seal that crack between disjointed systems, making our applications secure by default without a single manual security audit.
+Most systems communicate by message passing. Rather than a developer writing the message structure and the logic to send, receive, and process messages, Concordance mathematically derives the message from the code. Why does this matter? Why take this approach? Every web3 hack happens by exploiting message passing. If we secure the message construction with math and cryptography, we seal that crack between disjointed systems, making our applications secure by default without a single manual security audit.
 
 <br>
