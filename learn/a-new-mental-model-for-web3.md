@@ -1,16 +1,6 @@
 ---
+hidden: true
 noRobotsIndex: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # A New Mental Model for Web3

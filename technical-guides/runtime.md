@@ -20,6 +20,6 @@ With Concordance, developers no longer write interfaces or message queues, and s
 
 ### Why take this approach?
 
-All systems communicate by message passing. Rather than a developer writing the message structure and the logic to send, receive, and process messages, Concordance mathematically derives the message from the code. Why does this matter? Why take this approach? Every web3 hack happens by exploiting message passing. If we secure the message construction with math and cryptography, we seal that crack between disjointed systems, making our applications secure by default without a single security audit.
+All systems communicate by message passing. Rather than a developer writing the message structure and the logic to send, receive, and process messages, Concordance mathematically derives the message from the code. Why does this matter? Why take this approach? Every web3 hack happens by exploiting message passing. If we secure the message construction with math and cryptography, we seal that crack between disjointed systems, making our applications secure by default without a single manual security audit.
 
 <br>

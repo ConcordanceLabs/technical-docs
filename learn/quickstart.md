@@ -1,5 +1,6 @@
 ---
 description: Blockchain Extensibility
+hidden: true
 noIndex: true
 ---
 
@@ -30,4 +31,4 @@ This end-to-end solution enables a new class of on-chain applications.&#x20;
 * Resilient application performance&#x20;
 *   Extension of Blockchain trustlessness, coordination, and security to your application
 
-    \
+    <br>
