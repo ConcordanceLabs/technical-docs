@@ -13,6 +13,8 @@
 
 ## Technical Guides
 
+* [Runtime](technical-guides/runtime.md)
+* [Formal Model](technical-guides/formal-model.md)
 * [High Level Architecture](technical-guides/high-level-architecture.md)
 * [Interactive blocks](technical-guides/interactive-blocks.md)
 * [Blockchain Basics](technical-guides/blockchain-basics.md)
