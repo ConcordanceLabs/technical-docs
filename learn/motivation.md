@@ -1,6 +1,6 @@
 # Motivation
 
-While blockchain aims to be a coordination medium, solving coordination problems on-chain is complex in large part because developers have to reason about their application across multiple axes.&#x20;
+While blockchain aims to be a coordination medium, solving coordination problems onchain is complex in large part because developers have to reason about their application across multiple axes.&#x20;
 
 Developers must not only manage state across multiple different segments of the application but must reason about how that that state mutates as the application progresses. Component _state_ and its _coordination_ evolve independently and at different rates.&#x20;
 
@@ -10,7 +10,7 @@ Because of this complexity, it is far too common that blockchain applications to
 
 ### Simplify State Management&#x20;
 
-Application state doesn’t just change at different rates—they change in different ways. On-chain state may update after a transaction, client-side state may change instantly in response to UI input, and backend state may depend on data fetched asynchronously from APIs. **All of this must work together.**&#x20;
+Application state doesn’t just change at different rates—they change in different ways. Onchain state may update after a transaction, client-side state may change instantly in response to UI input, and backend state may depend on data fetched asynchronously from APIs. **All of this must work together.**&#x20;
 
 State segmentation leads to **low** **visibility, latency, and overhead** to manage across the application.&#x20;
 
@@ -22,7 +22,7 @@ Concordance provides a runtime to unify state across the application,  **ensurin
 
 **Once state is predictable, coordination becomes programmable.**
 
-Today's standard of token transfer reduces on-chain value to a one-dimensional unit, typically the token's fiat value.&#x20;
+Today's standard of token transfer reduces onchain value to a one-dimensional unit, typically the token's fiat value.&#x20;
 
 Real-world coordination is multi-dimensional and interconnected, and tokens alone cannot encode this complexity.&#x20;
 
